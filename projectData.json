@@ -11,50 +11,7 @@
           { name : "instagram"  ,link :  "https://instagram.com"},
           { name : "linkedin"  ,link :  "https://linkedin.com"},
         ],
-        video : ''
+        video : '',
    },
-  {
-        title: 'Title 2',
-        type: 'LATEST',
-        image: 'https://picsum.photos/seed/3/400/250',
-        Description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique lacus ut libero varius, vel varius magna volutpat. Donec efficitur, nisi tristique tristique vulputate, eros tellus aliquet elit, sit amet placerat quam leo vel felis.",
-        link_github : 'https://github.com/nourdiny?tab=repositories',
-        created_at : "Oct 12, 2019",
-        shere_Link : [
-          { name : "facebook"  ,link :  "https://facebook.com"},
-          { name : "instagram"  ,link :  "https://instagram.com"},
-          { name : "linkedin"  ,link :  "https://linkedin.com"},
-        ],
-        video : ''
-   },
-  {
-        title: 'Title 3',
-        type: 'POPULAR',
-        image: 'https://picsum.photos/seed/4/400/250',
-        Description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique lacus ut libero varius, vel varius magna volutpat. Donec efficitur, nisi tristique tristique vulputate, eros tellus aliquet elit, sit amet placerat quam leo vel felis.",
-        link_github : 'https://github.com/nourdiny?tab=repositories',
-        created_at : "Oct 12, 2019",
-        shere_Link : [
-          { name : "facebook"  ,link :  "https://facebook.com"},
-          { name : "instagram"  ,link :  "https://instagram.com"},
-          { name : "linkedin"  ,link :  "https://linkedin.com"},
-        ],
-        video : ''
-      },
-  {
-        title: 'Title 4',
-        type: 'POPULAR',
-        image: 'https://picsum.photos/seed/11/400/250',
-        Description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique lacus ut libero varius, vel varius magna volutpat. Donec efficitur, nisi tristique tristique vulputate, eros tellus aliquet elit, sit amet placerat quam leo vel felis.",
-        link_github : 'https://github.com/nourdiny?tab=repositories',
-        created_at : "Oct 12, 2019",
-        shere_Link : [
-          { name : "facebook"  ,link :  "https://facebook.com"},
-          { name : "instagram"  ,link :  "https://instagram.com"},
-          { name : "linkedin"  ,link :  "https://linkedin.com"},
-        ],
-        video : ''
-      }
-  
   
   ]
